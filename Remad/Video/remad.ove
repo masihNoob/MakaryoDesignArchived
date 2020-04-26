@@ -106,7 +106,7 @@
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
-                        <field id="posx" value="-956">
+                        <field id="posx" value="872.7">
                             <key value="1048" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="-956" frame="503" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
@@ -140,7 +140,7 @@
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
-                        <field id="posx" value="-7688.5">
+                        <field id="posx" value="2547.18">
                             <key value="2883" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="-956" frame="503" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="-956" frame="571" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
@@ -148,7 +148,7 @@
                             <key value="-1908" frame="1526" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="-7856" frame="1548" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
-                        <field id="posy" value="919.862">
+                        <field id="posy" value="570">
                             <key value="570" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="570" frame="571" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="570" frame="1526" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
@@ -156,7 +156,7 @@
                         </field>
                     </row>
                     <row>
-                        <field id="scalex" value="330.284">
+                        <field id="scalex" value="100">
                             <key value="100" frame="555" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="100" frame="571" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="133" frame="587" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
@@ -204,7 +204,7 @@
                 </effect>
                 <effect name="Blur/Gaussian Blur" enabled="1">
                     <row>
-                        <field id="sigma" value="15.3846">
+                        <field id="sigma" value="0">
                             <key value="0" frame="1535" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="20" frame="1548" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
@@ -264,21 +264,21 @@
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
-                        <field id="posx" value="1350">
+                        <field id="posx" value="-9.59259">
                             <key value="-241" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="2031" frame="432" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="1350" frame="504" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="1350" frame="571" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="1350" frame="587" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
-                        <field id="posy" value="1205">
+                        <field id="posy" value="943">
                             <key value="943" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="943" frame="571" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="1205" frame="587" type="1" prehx="-46.3857" prehy="11.8225" posthx="46.3857" posthy="-11.8225"/>
                         </field>
                     </row>
                     <row>
-                        <field id="scalex" value="196.437">
+                        <field id="scalex" value="153.437">
                             <key value="153.437" frame="555" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="153.437" frame="571" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="196.437" frame="587" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
@@ -378,7 +378,7 @@
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
-                        <field id="posx" value="-205.616">
+                        <field id="posx" value="-230">
                             <key value="2184" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="-230" frame="99" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
@@ -446,7 +446,7 @@
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
-                        <field id="posx" value="-164.757">
+                        <field id="posx" value="-197.378">
                             <key value="2184" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="-230" frame="74" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
@@ -604,15 +604,15 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="16" enabled="1" name="roa-music-walk-around.mp3" clipin="0" in="0" out="1578" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="17" stream="0">
+            <clip id="16" enabled="1" name="roa-music-walk-around.mp3" clipin="0" in="0" out="1616" track="1" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="17" stream="0">
                 <linked/>
                 <effect name="/Volume" enabled="1">
                     <row>
-                        <field id="volume" value="5.01187e-35">
+                        <field id="volume" value="1">
                             <key value="1" frame="629" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="0.354813" frame="677" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
-                            <key value="5.01187e-35" frame="1578" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
-                            <key value="0.354813" frame="1548" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="5.01187e-35" frame="1608" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0.354813" frame="1578" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
                     </row>
                 </effect>
@@ -626,7 +626,7 @@
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
-                        <field id="posx" value="79">
+                        <field id="posx" value="281.5">
                             <key value="439" frame="17" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="567" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="79" frame="65" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
@@ -637,7 +637,7 @@
                         </field>
                     </row>
                     <row>
-                        <field id="scalex" value="0">
+                        <field id="scalex" value="20">
                             <key value="20" frame="5" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="20" frame="8" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="0" frame="-1" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
@@ -677,7 +677,7 @@
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
-                        <field id="posx" value="176">
+                        <field id="posx" value="380.709">
                             <key value="593" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="176" frame="55" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
@@ -687,7 +687,7 @@
                         </field>
                     </row>
                     <row>
-                        <field id="scalex" value="0">
+                        <field id="scalex" value="37">
                             <key value="0" frame="0" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="37" frame="4" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="40" frame="6" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
@@ -726,7 +726,7 @@
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
-                        <field id="posx" value="159">
+                        <field id="posx" value="389.286">
                             <key value="562" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="159" frame="56" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
@@ -735,7 +735,7 @@
                         </field>
                     </row>
                     <row>
-                        <field id="scalex" value="0">
+                        <field id="scalex" value="100">
                             <key value="100" frame="3" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="0" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="100" frame="45" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
@@ -1651,11 +1651,11 @@
                     </row>
                 </effect>
             </clip>
-            <clip id="34" enabled="1" name="map.jpg" clipin="0" in="440" out="1558" track="-3" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="28" stream="0">
+            <clip id="34" enabled="1" name="map.jpg" clipin="0" in="440" out="1645" track="-3" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="28" stream="0">
                 <linked/>
                 <effect name="Distort/Transform" enabled="1">
                     <row>
-                        <field id="posx" value="964.094">
+                        <field id="posx" value="4711">
                             <key value="2149" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="1678" frame="63" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="1600" frame="147" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
@@ -1663,8 +1663,10 @@
                             <key value="1600" frame="1086" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="1002" frame="1108" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="962" frame="1119" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="4711" frame="1174" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="962" frame="1161" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
-                        <field id="posy" value="535.482">
+                        <field id="posy" value="-3648">
                             <key value="443" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="443" frame="63" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="401" frame="147" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
@@ -1672,16 +1674,20 @@
                             <key value="401" frame="1086" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="508" frame="1108" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="537" frame="1119" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="-3648" frame="1174" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="537" frame="1161" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
                     </row>
                     <row>
-                        <field id="scalex" value="148.848">
+                        <field id="scalex" value="4215">
                             <key value="50" frame="147" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="37" frame="63" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="37" frame="131" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="50" frame="1086" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="128" frame="1108" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="150" frame="1119" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="4215" frame="1174" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="150" frame="1161" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
                         <field id="scaley" value="100">
                             <key value="100" frame="147" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
@@ -1689,6 +1695,7 @@
                             <key value="100" frame="131" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="100" frame="1086" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="100" frame="1108" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="100" frame="1161" type="1" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
                     </row>
                     <row>
@@ -1710,64 +1717,15 @@
                 </effect>
                 <effect name="Blur/Gaussian Blur" enabled="1">
                     <row>
-                        <field id="sigma" value="11">
+                        <field id="sigma" value="5">
                             <key value="0" frame="1095" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                             <key value="20" frame="1108" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
-                            <key value="0" frame="1128" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
-                        </field>
-                    </row>
-                    <row>
-                        <field id="horiz_blur" value="1"/>
-                    </row>
-                    <row>
-                        <field id="vert_blur" value="1"/>
-                    </row>
-                </effect>
-            </clip>
-            <clip id="35" enabled="1" name="Copy_of_jawa.png" clipin="0" in="1554" out="1578" track="-4" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="29" stream="0">
-                <linked/>
-                <effect name="Distort/Transform" enabled="1">
-                    <row>
-                        <field id="posx" value="987">
-                            <key value="867" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
-                            <key value="987" frame="6" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
-                        </field>
-                        <field id="posy" value="549">
-                            <key value="697" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
-                            <key value="549" frame="6" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
-                        </field>
-                    </row>
-                    <row>
-                        <field id="scalex" value="100">
-                            <key value="100" frame="4" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
-                            <key value="0" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
-                        </field>
-                        <field id="scaley" value="100">
-                            <key value="100" frame="4" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
-                        </field>
-                    </row>
-                    <row>
-                        <field id="uniformscale" value="1"/>
-                    </row>
-                    <row>
-                        <field id="rotation" value="0"/>
-                    </row>
-                    <row>
-                        <field id="anchorx" value="0"/>
-                        <field id="anchory" value="0"/>
-                    </row>
-                    <row>
-                        <field id="opacity" value="100"/>
-                    </row>
-                    <row>
-                        <field id="blendmode" value=""/>
-                    </row>
-                </effect>
-                <effect name="Blur/Gaussian Blur" enabled="1">
-                    <row>
-                        <field id="sigma" value="11.4286">
-                            <key value="20" frame="0" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
-                            <key value="0" frame="14" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0" frame="1174" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0" frame="1121" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="5" frame="1166" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0" frame="1193" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="5" frame="1201" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="3.21429" frame="1161" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
                         </field>
                     </row>
                     <row>

@@ -1,0 +1,121 @@
+{
+    "name": "title",
+    "nodes": [
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "cave",
+            "node_path": "cave",
+            "offset": [
+                -540.5,
+                281.0
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                0,
+                78
+            ],
+            "resource_path": "export/title/cave.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -3
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "evn",
+            "node_path": "evn",
+            "offset": [
+                -540.5,
+                281.0
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                39,
+                0
+            ],
+            "resource_path": "export/title/evn.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -2
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "til",
+            "node_path": "til",
+            "offset": [
+                -540.5,
+                281.0
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                42,
+                148
+            ],
+            "resource_path": "export/title/til.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": -1
+        },
+        {
+            "children": [],
+            "frame_index": 0,
+            "name": "Layer_41",
+            "node_path": "Layer_41",
+            "offset": [
+                -540.5,
+                281.0
+            ],
+            "opacity": 1.0,
+            "pivot_offset": [
+                0.0,
+                0.0
+            ],
+            "position": [
+                -30,
+                -14
+            ],
+            "resource_path": "export/title/Layer_41.png",
+            "rotation": 0.0,
+            "scale": [
+                1.0,
+                1.0
+            ],
+            "tiles_x": 1,
+            "tiles_y": 1,
+            "type": "SPRITE",
+            "z": 0
+        }
+    ]
+}
